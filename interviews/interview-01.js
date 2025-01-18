@@ -1,5 +1,5 @@
 // 1. promise vs observable
-// 2. Http Client, call API
+// 2. Http Client, call API?
 // 3. Promise All?
 // 4. how to communicate component to component in angular?
 // 5. Modular pattern in angular?
