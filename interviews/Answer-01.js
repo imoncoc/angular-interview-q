@@ -20,3 +20,4 @@
 
 // 6. How service class works?
 // TODO: A service in Angular is a re-usable TypeScript class that can be used in multiple components across our Angular application
+
