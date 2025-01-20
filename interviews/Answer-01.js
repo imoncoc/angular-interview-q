@@ -21,3 +21,7 @@
 // 6. How service class works?
 // TODO: A service in Angular is a re-usable TypeScript class that can be used in multiple components across our Angular application
 
+// 7. Auth Guard?
+// TODO: In Angular, Auth Guards is a technique used to protect our routes based on user authentication status.
+
+// -> It will manage different access levels between authenticated and non-authenticated users.
